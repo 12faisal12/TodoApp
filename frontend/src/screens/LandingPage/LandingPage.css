@@ -1,0 +1,17 @@
+.main{
+    min-height: 93vh;
+    
+
+}
+
+.buttonContainer{
+    margin:10px;
+    display:"flex" ;
+    justify-content: "center" ;
+    flex-direction:'row' ;
+}
+
+.landingButton{
+    width:200px;
+    height:55px;
+}
